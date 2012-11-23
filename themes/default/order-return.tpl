@@ -1,6 +1,11 @@
-{*
-* ___COPY__RIGHT___
-*}
+{**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ *}
 {include file="./errors.tpl"}
 {if isset($orderRet)}
 	<h4>{l s='RE#'}<span class="color-myaccount">{$orderRet->id|string_format:"%06d"}</span> {l s='on'} {dateFormat date=$order->date_add full=0}</h4>

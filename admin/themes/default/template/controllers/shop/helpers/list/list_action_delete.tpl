@@ -1,6 +1,11 @@
-{*
-* ___COPY__RIGHT___
-*}
+{**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ *}
 <a href="{$href}" class="delete"
 	{if in_array($id_shop, $shops_having_dependencies)}
 		onclick="jAlert('{l s='You cannot delete this shop (customer and/or order dependency)'}'); return false;"

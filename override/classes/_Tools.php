@@ -1,7 +1,12 @@
 <?php
-/*
-* ___COPY__RIGHT___
-*/
+/**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ */
 
 //
 // IMPORTANT : don't forget to delete the underscore _ in the file name if you want to use it !

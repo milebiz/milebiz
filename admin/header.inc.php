@@ -1,7 +1,12 @@
 <?php
-/*
-* ___COPY__RIGHT___
-*/
+/**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ */
 
 // P3P Policies (http://www.w3.org/TR/2002/REC-P3P-20020416/#compact_policies)
 header('P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"');

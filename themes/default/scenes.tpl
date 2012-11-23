@@ -1,6 +1,11 @@
-{*
-* ___COPY__RIGHT___
-*}
+{**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ *}
 
 {if scenes}
 <script type="text/javascript" src="{$smarty.const._PS_JS_DIR_}jquery/plugins/cluetip/jquery.cluetip.js"></script>

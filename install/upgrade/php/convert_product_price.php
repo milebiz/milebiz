@@ -1,7 +1,12 @@
 <?php
-/*
-* ___COPY__RIGHT___
-*/
+/**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ */
 
 /* Convert product prices from the PS < 1.3 wrong rounding system to the new 1.3 one */
 function convert_product_price()

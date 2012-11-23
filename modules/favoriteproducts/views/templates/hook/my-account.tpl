@@ -1,6 +1,11 @@
-{*
-* ___COPY__RIGHT___
-*}
+{**
+ * MILEBIZ Ã×ÀÖÉÌ³Ç
+ * ============================================================================
+ * °æÈ¨ËùÓÐ 2011-20__ Ã×ÀÖÍøÂç¿Æ¼¼ÓÐÏÞ¹«Ë¾¡£
+ * ÍøÕ¾µØÖ·: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ *}
 
 <li class="favoriteproducts">
 	<a href="{$link->getModuleLink('favoriteproducts', 'account')|escape:'htmlall':'UTF-8'}" title="{l s='æ‚¨æ„Ÿå…´è¶£çš„äº§å“' mod='favoriteproducts'}">

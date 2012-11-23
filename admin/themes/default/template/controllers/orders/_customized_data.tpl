@@ -1,6 +1,11 @@
-{*
-* ___COPY__RIGHT___
-*}
+{**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ *}
 {if $product.customizedDatas}
 	<tr class="customized customized-{$product.id_order_detail}">
 		<input type="hidden" class="edit_product_id_order_detail" value="{$product.id_order_detail}" />

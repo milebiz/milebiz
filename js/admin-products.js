@@ -1,6 +1,11 @@
-/*
-* ___COPY__RIGHT___
-*/
+/**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ */
 
 // array of product tab objects containing methods and dom bindings
 // The ProductTabsManager instance will make sure the onReady() methods of each tabs are executed once the tab has loaded

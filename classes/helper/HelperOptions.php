@@ -1,7 +1,12 @@
 <?php
-/*
-* ___COPY__RIGHT___
-*/
+/**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ */
 
 /**
  * Use this helper to generate preferences forms, with values stored in the configuration table

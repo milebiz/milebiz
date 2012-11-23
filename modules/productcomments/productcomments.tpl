@@ -1,6 +1,11 @@
-{*
-* ___COPY__RIGHT___
-*}
+{**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ *}
 <script type="text/javascript">
 var productcomments_controller_url = '{$productcomments_controller_url}';
 var confirm_report_message = "{l s='Are you sure you want report this comment?' mod='productcomments'}";

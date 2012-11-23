@@ -3,9 +3,14 @@
 require_once(_PS_TOOL_DIR_.'tcpdf/config/lang/eng.php');
 require_once(_PS_TOOL_DIR_.'tcpdf/tcpdf.php');
 
-/*
-* ___COPY__RIGHT___
-*/
+/**
+ * MILEBIZ 米乐商城
+ * ============================================================================
+ * 版权所有 2011-20__ 米乐网络科技有限公司。
+ * 网站地址: http://www.milebiz.com
+ * ============================================================================
+ * $Author: zhourh $
+ */
 
 /**
  * @since 1.5
